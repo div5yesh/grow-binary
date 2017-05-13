@@ -1,5 +1,6 @@
 import React from 'react';
 import GameComponent from './GameComponent';
+import dispatcher from './Dispatcher';
 
 class GameLayer extends React.Component {
 
