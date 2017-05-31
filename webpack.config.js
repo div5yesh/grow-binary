@@ -8,6 +8,8 @@ var config = {
       filename: 'app.min.js'
    },
 
+   publicPath: "public",
+
    devServer: {
       port: 8081
    },
